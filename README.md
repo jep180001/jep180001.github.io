@@ -1,6 +1,6 @@
-# TechAddict - A Balanced Digital Lifestyle App
+# TechAddict - A Balanced Digital Lifestyle Website
 
-TechAddict is a purpose-driven mobile application designed to empower young individuals aged 14-19 with a personalized and responsible approach to managing their phone usage. By providing a host of features such as personalized profiles, tailored hobby suggestions, engaging challenges, and a supportive community, TechAddict is your companion on the journey to striking a healthy balance between your digital and offline life.
+TechAddict is a purpose-driven website application designed to empower young individuals aged 14-19 with a personalized and responsible approach to managing their device usage. By providing a host of features such as personalized profiles, tailored hobby suggestions, engaging challenges, and a supportive community, TechAddict is your companion on the journey to striking a healthy balance between your digital and offline life.
 
 ## How the User Interface Works
 
